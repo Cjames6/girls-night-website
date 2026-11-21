@@ -1,0 +1,5 @@
+IFRAME TEMPLATE — Replace YOUR-PUBLISHED-URL with the public URL after hosting your site. A local file:/// URL will not work for other people.
+
+<iframe src="YOUR-PUBLISHED-URL" width="100%" height="850" title="The Ultimate Girls’ Night In" loading="lazy" style="border:0;"></iframe>
+
+All images: Unsplash (photographer names and source links appear on the webpage). HTML and CSS written for this assignment. No JavaScript used.
